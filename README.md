@@ -13,16 +13,16 @@ Free camera during:
 
 Additional feature
 ---------------------
-During gameplay, whenever there is free camera enabled by the Mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset.
+During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
 
 
-Requirements
------------------
-Ability to attach DLL to the Xenia executable, either permanently or dynamically.
+Installation instructions
+----------------------------
+Required is ability to attach DLL to the Xenia executable, either permanently or dynamically.
 
-Possible tools that can be used:
+Suggested tools to use:
 * CFF Explorer VII (https://ntcore.com/explorer-suite/)
-* Cheat Engine by Dark Byte
+* Cheat Engine by Dark Byte (https://www.cheatengine.org)
 
 
 Installation (permanent)
