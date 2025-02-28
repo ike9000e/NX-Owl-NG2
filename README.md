@@ -4,11 +4,11 @@ For use with Xenia that runs Ninja Gaiden 2, Xbox 360 game.
 
 Free camera during:
 
-	* ET/UT.
-	* OT.
-	* During environment static camera, otherwise. Eg. shaft clibing with jumps.
-	* Opening Chests.
-	* Off-the-wall downward strong attack.
+* ET/UT.
+* OT.
+* During environment static camera, otherwise. Eg. shaft clibing with jumps.
+* Opening Chests.
+* Off-the-wall downward strong attack.
 
 Additional feature
 ---------------------
