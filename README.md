@@ -61,4 +61,6 @@ Additional Info
 -------------------------
 NG2 Title id: 544307D5
 
+Project website: https://github.com/ike9000e/NX-Owl-NG2
+
 During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
