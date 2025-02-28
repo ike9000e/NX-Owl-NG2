@@ -2,7 +2,6 @@ Enables free camera in places, and durning actions, that the game would normally
 Additionally, tries to eliminate unwanted camera snapping.
 For use with Xenia that runs Ninja Gaiden 2, Xbox 360 game.
 
-
 Free camera during:
 
 	* ET/UT.
@@ -13,16 +12,19 @@ Free camera during:
 
 Additional feature
 ---------------------
-During gameplay, whenever there is free camera enabled, holding LB or RT buttons would revert to the original camera mode.
+During gameplay, whenever there is free camera enabled by the Mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset.
 
 Requirements
 -----------------
-* CFF Explorer VII
-* Ability to attach DLL to the Xenia executable, either permanently to  or with 
+* CFF Explorer VII [CFF Explorer VII https://ntcore.com/explorer-suite/]
+* Ability to attach DLL to the Xenia executable, either permanently dynamically.
 
 
 Installation
 --------------
+
+This explains how to use CFF Explorer VII to add the DLL to the "xenia_canary.exe" file so it starts with the game automatically every time. Non-permanent way of starting the game is also possible, using dynamic DLL loading, eg. using a feature from Cheat Engine.
+
 * Make sure you hav a backup of your "xenia_canary.exe" file.
 * Copy "nx_owl_dll.dll" to the same folder/directory "xenia_canary.exe" is in.
 * Start CFF Explorer VII.
@@ -34,5 +36,4 @@ Installation
 * Press "Import By Name" button.
 * Press "Rebuild Import Table" button.
 * Select main menu "File" then "Save" allowing the original file to be replaced.
-
 
