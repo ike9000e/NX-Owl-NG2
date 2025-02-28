@@ -33,7 +33,7 @@ Suggested tools to use:
 Installation (permanent)
 ----------------------------
 
-This explains how to use CFF Explorer VII to add the DLL to the "xenia_canary.exe" file so it starts with the game automatically every time. Non-permanent way of starting the game is also possible, using dynamic DLL loading, for example using a feature from Cheat Engine.
+This explains how to use CFF Explorer VII to add the DLL to the "xenia_canary.exe" file so it starts with the game automatically every time. Non-permanent way of starting the game is also possible, using dynamic DLL loading, for example using a feature in Cheat Engine.
 
 * Make sure you hav a backup of your "xenia_canary.exe" file.
 * Copy "nx_owl_dll.dll" to the same folder/directory "xenia_canary.exe" is in.
