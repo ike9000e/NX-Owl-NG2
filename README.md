@@ -12,11 +12,6 @@ Free camera during:
 * Off-the-wall downward strong attack.
 
 
-Additional feature
----------------------
-During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
-
-
 Compatibiluty
 --------------
 
@@ -61,6 +56,9 @@ Using Cheat Engine by Dark Byte it's possible to attach "nx_owl_dll.dll" when Xe
 * In Cheat Engine use "Inject DLL" option from the Memory View window.
 * Start the game in Xenia.
 
-Additional info
+
+Additional Info
 -------------------------
 NG2 Title id: 544307D5
+
+During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
