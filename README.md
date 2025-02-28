@@ -1,6 +1,7 @@
 Enables free camera in places, and durning actions, that the game would normally not allow it.
 Additionally, tries to eliminate unwanted camera snapping.
 For use with Xenia that runs Ninja Gaiden 2, Xbox 360 game.
+This mod is in the DLL form and needs to be added to the Xenia executable manually by the user.
 
 Free camera during:
 
@@ -14,6 +15,14 @@ Free camera during:
 Additional feature
 ---------------------
 During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
+
+Compatibiluty
+--------------
+
+  * Xenia version fbacd3c / Feb-7 
+
+  * Ninja Gaiden 2 with Title Update 3 (latest) installed that updates the game to v4.0.3.
+    - (Xenia main log file must show line that says: "Module Hash: 4CC4201C0C4ED58B".)
 
 
 Installation instructions
@@ -51,3 +60,6 @@ Using Cheat Engine by Dark Byte it's possible to attach "nx_owl_dll.dll" when Xe
 * In Cheat Engine use "Inject DLL" option from the Memory View window.
 * Start the game in Xenia.
 
+Additional info
+-------------------------
+NG2 Title id: 544307D5
