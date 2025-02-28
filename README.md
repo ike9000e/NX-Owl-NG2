@@ -16,13 +16,14 @@ Additional feature
 ---------------------
 During gameplay, whenever there is free camera enabled by the mod, holding LB or RT buttons would revert to the original camera mode. Normally, in game, these two buttons are used for 1st person camera control and for camera reset. This feature doesn't change anything, since these buttons wouldn't be used for anything else while the camera was locked.
 
+
 Compatibiluty
 --------------
 
   * Xenia version fbacd3c / Feb-7 
 
   * Ninja Gaiden 2 with Title Update 3 (latest) installed that updates the game to v4.0.3.
-    - (Xenia main log file must show line that says: "Module Hash: 4CC4201C0C4ED58B".)
+    To confirm that TU3 is installed properly check Xenia main log file and if it shows the line that reads: "Module Hash: 4CC4201C0C4ED58B".
 
 
 Installation instructions
