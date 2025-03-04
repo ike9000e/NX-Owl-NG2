@@ -11,6 +11,8 @@ Free camera during:
 * Opening Chests.
 * Off-the-wall downward strong attack.
 
+Preview video:
+https://www.youtube.com/watch?v=Bx09WWGT5iQ
 
 Compatibiluty
 --------------
