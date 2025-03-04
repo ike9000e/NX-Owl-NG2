@@ -3,7 +3,7 @@ Additionally, tries to eliminate unwanted camera snapping.
 For use with Xenia that runs Ninja Gaiden 2, Xbox 360 game.
 This mod is in the DLL form and needs to be added to the Xenia executable manually, by the user.
 
-Free camera during:
+Camera control during:
 
 * ET/UT.
 * OT.
